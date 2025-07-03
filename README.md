@@ -1,7 +1,8 @@
 # Web Developer Portfolio
 
 [![Live Demo on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://v0-desarrollador-web-portfolio-tawny.vercel.app/)
-[![License: MIT](https://img.shields.io/github/license/ArielAyala/example-portfolio-by-v0?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/ArielAyala/example-portfolio-by-v0?style=flat-square)](https://github.com/ArielAyala/example-portfolio-by-v0/blob/main/LICENSE)
+
 
 
 ## Overview
