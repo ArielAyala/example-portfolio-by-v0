@@ -1,30 +1,48 @@
-# Desarrollador web portfolio
+# Web Developer Portfolio
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ariel-ayalas-projects/v0-desarrollador-web-portfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/R7J8Mmn9R6s)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)]([https://vercel.com/ariel-ayalas-projects/example-portfolio-by-v0](https://v0-desarrollador-web-portfolio-tawny.vercel.app/))
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This repository contains the source code of an example developer portfolio generated using [v0.dev](https://v0.dev) to demonstrate the platform's capabilities. It showcases projects, skills, and experience as a developer.
 
 ## Deployment
 
-Your project is live at:
+The portfolio is deployed on Vercel and available at:
 
-**[https://v0-desarrollador-web-portfolio-tawny.vercel.app/](https://v0-desarrollador-web-portfolio-tawny.vercel.app/)**
+**[https://example-portfolio-by-v0.vercel.app/](https://v0-desarrollador-web-portfolio-tawny.vercel.app/)**
 
-## Build your app
+## Getting Started
 
-Continue building your app on:
+To run this project locally:
 
-**[https://v0.dev/chat/projects/R7J8Mmn9R6s](https://v0.dev/chat/projects/R7J8Mmn9R6s)**
+1. Clone the repository:
 
-## How It Works
+```bash
+git clone https://github.com/ArielAyala/example-portfolio-by-v0.git
+```
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+## Technologies
+
+- Next.js
+- React
+- Tailwind CSS (or your chosen styling framework)
+- Vercel
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
